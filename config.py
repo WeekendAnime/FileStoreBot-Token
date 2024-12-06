@@ -38,8 +38,8 @@ IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID","gojfsi/2")
 
 
-START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/ec17880d61180d3312d6a.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg")
+START_PIC = os.environ.get("START_PIC", "https://envs.sh/C6p.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/C6A.jpg")
 
 
 #force sub channel id, if you want enable force sub
