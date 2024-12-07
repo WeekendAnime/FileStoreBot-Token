@@ -1,13 +1,15 @@
 # --- For-Bot-Working --------- #
-https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
+pyrogram
+pyrofork
 TgCrypto
-pyromod
+pyromod==1.5
+python-dotenv
 # --- For-Database ------------ #
 pymongo
 motor
 umongo
-dnspython
 marshmallow
+dnspython
 # --- For-Web-Response ------- #
 pytz
 requests
