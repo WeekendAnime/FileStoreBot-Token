@@ -1,15 +1,14 @@
+git+https://github.com/youesky/pyrogram
 # --- For-Bot-Working --------- #
 pyrogram
-pyrofork
 TgCrypto
-pyromod==1.5
-python-dotenv
+pyromod
 # --- For-Database ------------ #
 pymongo
 motor
 umongo
-marshmallow
 dnspython
+marshmallow
 # --- For-Web-Response ------- #
 pytz
 requests
